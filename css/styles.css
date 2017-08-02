@@ -1,14 +1,9 @@
-h2.intro {
-  text-align: center;
-
+.intro {
+  color: green;
 }
-
-p.intro {
-  width: 75%;
-  font-style: italic;
+.bob {
+  text-align: center
 }
-
-img.intro {
-  border-radius: 50%
-
+#circle {
+  border-radius: 50%;  
 }
